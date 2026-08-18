@@ -1,0 +1,6 @@
+{
+  "name": "Stack",
+  "description": "A minimalist, responsive clone of Ketchapp's Stack game, featuring smooth isometric styling, dynamic color transitions, and fluid physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
